@@ -1,12 +1,12 @@
 {
   "name": "eslint-config-hint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Eslint configuration for Hint",
   "main": "index.js",
   "author": "nshoes",
   "private": false,
-  "devDependencies": {
+  "dependencies": {
     "eslint-config-standard": "^10.2.1",
     "eslint-config-standard-react": "^5.0.0",
     "eslint-plugin-import": "^2.7.0",
