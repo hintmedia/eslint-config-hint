@@ -1,1 +1,8 @@
-Eslint configuration for Hint.
+`yarn add eslint-config-hint --dev`
+
+```
+// .eslintrc
+{
+  "extends": ["hint"]
+}
+```
