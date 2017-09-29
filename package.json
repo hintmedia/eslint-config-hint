@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-hint",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "Eslint configuration for Hint",
+  "main": "index.js",
+  "author": "nshoes",
+  "private": false,
+  "peerDependencies": {
+    "eslint": ">= 4"
+  }
+}
