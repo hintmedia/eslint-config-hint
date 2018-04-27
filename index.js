@@ -1,9 +1,11 @@
 module.exports = {
   "extends": ["standard", "standard-react"],
+  "plugins": ["jest"],
   "parser": "babel-eslint",
   "env": {
     "browser": true,
-    "node": true
+    "node": true,
+    "jest/globals": true
   },
   "rules": {
     "space-before-function-paren": 0,
@@ -16,6 +18,7 @@ module.exports = {
     "arrow-parens": ["error", "as-needed"],
     "indent": 0,
     "no-return-assign": 0,
-    "brace-style": 0
+    "brace-style": 0,
+    "spaced-comment": 0
   }
 }
