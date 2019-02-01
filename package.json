@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-hint",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "description": "Eslint configuration for Hint",
   "main": "index.js",
