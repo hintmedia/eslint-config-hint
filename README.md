@@ -1,4 +1,4 @@
-`yarn add eslint-config-hint --dev`
+`npm i -D eslint-config-hint`
 
 ```
 // .eslintrc
